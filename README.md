@@ -12,7 +12,7 @@ My interests involve working with data in general, making interfaces for systems
 [<img src="linkedin.png" width=30px>](https://www.linkedin.com/in/lucas-novais-da-silva-2281b8170) &nbsp; &nbsp;
 [<img src="instagram.png" width=30px>](https://www.instagram.com/luc.novais/) &nbsp; &nbsp;
 
-### :desktop_computer: Most used languages:
+### :desktop_computer: Languages:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucNovais&theme=tokyonight)
 
