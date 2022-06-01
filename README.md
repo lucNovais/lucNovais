@@ -20,7 +20,7 @@ My interests involve working with data in general, making interfaces for systems
 
 <a href="https://github.com/lucNovais/MobVis">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lucNovais&repo=MobVis&theme=tokyonight" />
-</a>
-<a href="[https://github.com/anuraghazra/anuraghazra.github.io](https://github.com/ndrLocobots/Projeto_Proativa_3D)">
+</a>&nbsp;
+<a href="https://github.com/ndrLocobots/Projeto_Proativa_3D">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ndrLocobots&repo=Projeto_Proativa_3D&theme=tokyonight" />
 </a>
