@@ -2,9 +2,9 @@
   Hello, I'm Lucas :v:
 </h2>
 
-Currently, I'm graduating in Computer Engineering at Federal University of Ouro Preto ([UFOP](https://ufop.br)), and also developing a scientific initiation project which deals with mobility data analysis.
+I hold a degree in Computer Engineering from the Federal University of Ouro Preto. Currently, I work as a Data Engineer at [Inter](https://inter.co/). I primarily work with Python and PySpark, using mostly AWS cloud infrastructure.
 
-My interests involve working with data in general, making interfaces for systems and also game development! But I also love learning new things and exploring new areas.
+My interests, in addition to working with data, include the development of games, interfaces, and integration systems.
 
 ### :phone: Contact:
 
